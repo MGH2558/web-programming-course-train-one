@@ -1,0 +1,34 @@
+* {
+    transition: all .2s;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,
+body {
+    background-color: darkblue;
+    color: #fff;
+}
+
+form {
+    padding: 14rem;
+}
+
+input[type="submit"] {
+    padding: .5rem;
+    background-color: gold;
+    font-size: 1rem;
+}
+
+.nameContainer--style{
+    margin-top: 2rem;
+    color: gold;
+}
+
+label,
+input[type="text"] {
+    font-size: 1.3rem;
+}
